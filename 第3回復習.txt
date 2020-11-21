@@ -1,1 +1,7 @@
-aaa
+pushまでの流れ
+
+1．ファイルを作成
+2．git add <ファイル名>   :「まな板」にのせる
+3．git commit -m "内容" 　：説明を書く
+4．git push  　　　　　 　：pushする
+ 
